@@ -35,6 +35,6 @@ Este projeto visa desenvolver uma plataforma inteligente para otimizar o consumo
 
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/consumo-energia.git
+   git clone https://github.com/ViniciusVilasB/GS-Python.git
    cd consumo-energia
 
